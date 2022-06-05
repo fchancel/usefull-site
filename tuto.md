@@ -31,12 +31,15 @@
 
 - [dev.to](https://dev.to/yacouri/reactjs-folder-structure-boilerplate-155n) - structure your react app
 
-## Network: AT Command
+## Network: GSM AT Command
 
 - https://www.elprocus.com/at-commands-tutorial/
 - https://www.engineersgarage.com/at-commands-gsm-at-command-set/
-- https://albertomosconi.github.io/foss-apps/
 - https://www.technologuepro.com/gsm/commande_at.htm
+
+## Vim
+
+- run command in your shell `vimturor`
 
 ## Linux
 
@@ -50,3 +53,13 @@
 
 - [It-connectFr](https://www.youtube.com/c/It-connectFr/videos) - various informations ( fr )
 - [FormationVideo](https://www.youtube.com/c/Formationvid%C3%A9o8) - various tutorial ( fr )
+- [Atomrace](https://www.youtube.com/channel/UCkVtc364_5j-ZivYYBTmJOg) - Hacking / Security ( fr )
+- [Coding overflow](https://www.youtube.com/channel/UC5lmovRKwJ-D4mMZyOUTKog) - c# / c++ (fr)
+- [Devoxx](https://www.youtube.com/c/DevoxxFRvideos) - Talk abaout Dev
+- [Free Code Camp](https://www.youtube.com/c/Freecodecamp) - FreecodeCamp
+- [Grafikart](https://www.youtube.com/c/grafikart) - Grafikart
+- [Hafnium](https://www.youtube.com/channel/UC_grjqug_eF6bRS_fVezK-A) - Hacking / Security ( fr )
+- [Les Teacher du net](https://www.youtube.com/c/Teachersdunet/videos) - Web Tuto ( fr )
+- [Simply Explained](https://www.youtube.com/c/Savjee) - Taking complicated topics and explaining them
+- [Tarik3 Med3](https://www.youtube.com/channel/UCesWph6NT_tfQTqHKeHVl9Q) - Explain low Level programming ( fr )
+- [Daedalus Community](https://www.youtube.com/c/DaedalusCommunity) - Daedalus Community
