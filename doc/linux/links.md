@@ -1,0 +1,1 @@
+[Top command explained](https://www.howtogeek.com/668986/how-to-use-the-linux-top-command-and-understand-its-output/)
