@@ -7,6 +7,7 @@
 - [javatpoint.com](https://www.javatpoint.com/) - doc for many languages
 - [devhints.io](https://devhints.io/) - cheat sheet for many languages and frameworks
 - [github.com](https://github.com/danistefanovic/build-your-own-x) - build your own x
+- [HEIA-FR ISC Embedded Systems](https://www.youtube.com/channel/UCRQbdFCHVSa5nTKGCySuHGg) - low level sofware/hard explained
 
 ## Git
 
