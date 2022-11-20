@@ -24,6 +24,7 @@
 
 # Illustrations:
 
+- [StorySet](https://storyset.com/) - Awesome free customizable illustrations.
 - [Undraw](https://undraw.co/) - Open-source illustrations for your next project.
 - [Open Peeps](https://blush.design/) - A hand-drawn illustration library
 - [Blush Design](https://blush.design/) - Find well designed free illustrations.
