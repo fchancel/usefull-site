@@ -12,6 +12,7 @@
 ## Git
 
 - [gitimmersion.com](https://gitimmersion.com/index.html) - guided tour that walks through the fundamentals of Git
+- [gitcommit](https://dev.to/hornet_daemon/git-commit-patterns-5dm7) - git comit examples
 
 ## web
 
